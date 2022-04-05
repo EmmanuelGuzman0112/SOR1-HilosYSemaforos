@@ -1,0 +1,7 @@
+cortar|ajo 1|ajo 2|puñado de rejeil
+mezclar|ajo|perejil|huevo|carne
+agregarSal|Sal
+cocinar|Milanesa en sarten
+hornearPan|pan
+prepararEnsalada|tomate|lechuga
+armarSandwich|milanesa|pan|ensalada
